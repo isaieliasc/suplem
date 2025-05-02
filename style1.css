@@ -262,7 +262,7 @@ body {
   }
 
   .bg-overlay {
-    background-image: url('ruta/a/tu/imagen.jpg'); /* Reemplaza con la ruta correcta */
+    background-image: url('ruta/a/tu/imagen.jpg');
     background-size: cover;
     background-position: center;
     opacity: 0.2;
